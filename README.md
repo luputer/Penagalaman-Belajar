@@ -1,4 +1,4 @@
-penagalamn beljar di Dicoding
+pengalaman belajar di Dicoding
 
 12 feb 2025
 Belajar kelas Memulai pemerograman dengan java. (Progres 21%)
